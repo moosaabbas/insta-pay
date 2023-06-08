@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1029814040433-oo55lb0ol5vjg0fkpcgrb6l2neni8ek6.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1029814040433</string>
+    <string name="google_api_key" translatable="false">AIzaSyABEPPUNUgjCwBqfZtJR1jYH1uLTSCZ9Mk</string>
+    <string name="google_app_id" translatable="false">1:1029814040433:android:8da6059cb1d1203dd0e8d0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyABEPPUNUgjCwBqfZtJR1jYH1uLTSCZ9Mk</string>
+    <string name="google_storage_bucket" translatable="false">finalexamproject-c82e8.appspot.com</string>
+    <string name="project_id" translatable="false">finalexamproject-c82e8</string>
+</resources>
